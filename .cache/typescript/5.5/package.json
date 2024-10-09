@@ -1,0 +1,1 @@
+{"private":true,"dependencies":{"types-registry":"^0.1.687"},"devDependencies":{"@types/ffmpeg-static":"^3.0.3","@types/ms":"^0.7.34","@types/node":"^22.7.3","@types/universalify":"^1.0.3","@types/url-parse":"^1.4.11"}}
